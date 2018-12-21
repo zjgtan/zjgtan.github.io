@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "以UEFI模式安装&启动Archlinux"
-tags: archlinux linux UEFI
+tags: archlinux linux UEFI 机器学习
 date: 2017-08-27 20:00:00 +0800
 ---
 前两天给一台机器装[Archlinux](https://www.archlinux.org)，打算用UEFI来引导启动，不过在做的过程中碰到了一些坑，写篇文章来记录一下每个可能掉坑的环节。
