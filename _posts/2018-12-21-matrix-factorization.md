@@ -5,5 +5,5 @@ tags: 推荐系统 机器学习
 date: 2018-12-21
 ---
 
-<div style="align: center">
+<div style="text-align: center">
 <img src="/images/lagou_20181217.jpg" width="240" height="240">
