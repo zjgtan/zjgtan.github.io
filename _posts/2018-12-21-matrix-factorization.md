@@ -5,4 +5,4 @@ tags: 推荐系统 机器学习
 date: 2018-12-21
 ---
 
-<img src="/images/lagou_20181217.jpg" width="240" height="240" class="img1"></img>
+<img src="/images/lagou_20181217.jpg" width="240" height="240" class="img1">
